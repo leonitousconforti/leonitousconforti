@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Leo Conforti
 - 👀 I’m interested in learning software development
-- 🌱 I’m currently learning typescript, graphql, and react
+- 🌱 I’m currently learning typescript + graphql + react
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me leo@leoconforti.us
+- 🌐 On the web, i'm localted at (leoconforti.us)[http://leoconforti.us]
+- 📫 How to reach me: leo@leoconforti.us
 
 <!---
 leonitousconforti/leonitousconforti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

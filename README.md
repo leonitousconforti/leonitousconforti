@@ -7,7 +7,7 @@
 - 📫 You can reach me at leo@leoconforti.us or confo014@umn.edu
 - 🌐 On the web, I'll be located at [leoconforti.us](http://leoconforti.us) (when I get around to making a portfolio site)
 
-5/20/2025 My house (duplex) burned down last week (thankfully no one was injured, also not my fault it was the neighbors) but I still don't have any compute / infra to restore my backups to at this time.
+5/20/2025 My house (duplex) burned down last week (thankfully no one was injured, also not my fault it was the neighbors) but I still don't have any compute / infra to restore my backups to at this time so no gitlab, programming, etc for right now.
 
 🏠🔥🧑‍🚒🚒 => 🏚️ => 🖥️❌🛜
 
